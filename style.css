@@ -581,12 +581,18 @@ footer .text span a:hover {
 }
 
 @media (max-width: 500px) {
+  nav .navbar .logo a {
+  font-weight: 500;
+  font-size: 17px;
+  color: #4070f4;
+}
+  
   .home .text-two {
-    font-size: 55px;
+    font-size: 45px;
   }
 
   .home .text-three {
-    font-size: 33px;
+    font-size: 23px;
   }
 
   .skills-details .boxes .per {
