@@ -546,11 +546,11 @@ footer .text span a:hover {
   }
 
   .home .text-two {
-    font-size: 65px;
+    font-size: 46px;
   }
 
   .home .text-three {
-    font-size: 35px;
+    font-size: 23px;
   }
 
   .skills .skills-details {
@@ -585,14 +585,18 @@ footer .text span a:hover {
   font-weight: 500;
   font-size: 17px;
   color: #4070f4;
-}
+  }
+
+  .home .text-one {
+    font-size: 20px;
+  }
   
   .home .text-two {
-    font-size: 45px;
+    font-size: 36px;
   }
 
   .home .text-three {
-    font-size: 23px;
+    font-size: 18px;
   }
 
   .skills-details .boxes .per {
